@@ -5,3 +5,4 @@ An app to verify a person's face, using a siamese neural network. Implementation
 Please see Face Verification App.ipynb for detailed instructions and comments throughout the whole code. The same code exists in the file Face Verification.py
 
 For the UI, execute the file face_id.py
+All the files needed in order to execute the code can be found at 
